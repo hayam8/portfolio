@@ -262,6 +262,7 @@ main {
 .modal-content {
   background-color: #444;
   margin: 15% auto;
+  text-align: left;
   padding: 20px;
   border: 1px solid #888;
   width: 80%;
